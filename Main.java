@@ -3,5 +3,6 @@ public class Main {
         System.out.println("문세종");
         World.run();
         World.run2(); 
+        Hello.run(); 
     }
 }
